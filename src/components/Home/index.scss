@@ -68,7 +68,28 @@
         float: left;
         animation: fadeIn 1s 1.8s backwards;
         white-space: nowrap;
+        border-radius: 5px;
     }
     }
 
 }
+
+.my-pic{
+    margin-left: 60%;
+    margin-top: 10%;
+    width: 300px;
+    height: 300px;
+    border-radius:50% ;
+    position:absolute;
+    opacity: 0;
+    animation:backInRight 1.5s 2s;
+    animation-fill-mode: forwards;
+    box-shadow:0 0 20px 0 lightyellow;
+    img{
+        border-radius: 50%;
+        width: 300px;
+        height: 300px;
+    }
+       
+}
+
