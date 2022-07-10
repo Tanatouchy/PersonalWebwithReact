@@ -27,11 +27,11 @@ const About= ()=>{
                     strArray={['A','b','o','u','t',' ','m','e']}
                     idx={15}/>
                 </h1>
-                <p>Hello everyone My name is Tanakit Tanayapong ,you can call me Touch.
+                <p>Hello everyone My name is Tanakit Tanayapong ,You can call me Touch.
                    I just a man who interest about coding and create web application
                 </p>
                 <p>I graduated in petrochemical engineer it not related on IT career path.
-                    However I Have passtion in IT and programing .It challenge me to find method to solve
+                    However I Have passion in IT and programing .It challenge me to find method to solve
                     some problem that make me do it joyfully.
                 </p>
                 <p>Some time the problem hard to solve , I want to ask specialist (Google) or my friend.
